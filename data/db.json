@@ -1,28 +1,22 @@
 {
-    "blogs": [
-        {
-            "title": "Blog Title 1",
-            "body": "blog body 1",
-            "author": "blog author 1",
-            "id": 1
-        },
-        {
-            "title": "Blog Title 2",
-            "body": "blog body 2",
-            "author": "blog author 2",
-            "id": 2
-        },
-        {
-            "title": "Blog Title 3",
-            "body": "blog body 3",
-            "author": "blog author 3",
-            "id": 3
-        },
-        {
-            "title": "Blog Title 4",
-            "body": "blog body 4",
-            "author": "blog author 4",
-            "id": 4
-        }
-    ]
+  "blogs": [
+    {
+      "title": "Blog Title 2",
+      "body": "blog body 2",
+      "author": "blog author 2",
+      "id": 2
+    },
+    {
+      "title": "Blog Title 3",
+      "body": "blog body 3",
+      "author": "blog author 3",
+      "id": 3
+    },
+    {
+      "title": "Blog Title 4",
+      "body": "blog body 4",
+      "author": "blog author 4",
+      "id": 4
+    }
+  ]
 }
